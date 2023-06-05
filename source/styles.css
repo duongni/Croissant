@@ -8,7 +8,11 @@ h1 {
 img {
   margin: 20px;
 }
-
+.title {
+  background: rgb(253, 237, 157);
+  padding: 10px;
+  color: rgb(114, 80, 3);
+}
 .row {
   margin: 40px;
 }
